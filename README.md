@@ -1,7 +1,7 @@
 # 👋 สวัสดีครับ! ผม สุภคม ผิวอ่อน (Suphakom Priw-on)
 **Web & App Developer** ผู้มุ่งมั่นและเรียนรู้เร็ว พร้อมประสบการณ์ Internship ในสาย Backend Development, API Integration และ UI/UX Design
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bekbek22=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekbek22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 💡 **สิ่งที่ผมสนใจและกำลังเรียนรู้:** Golang, Flutter, NodeJS และ VueJs
 
@@ -28,5 +28,3 @@
 
 * **Email:** suphakom.work@gmail.com
 * **GitHub:** [github.com/bekbek22](https://github.com/bekbek22)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekbek22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
