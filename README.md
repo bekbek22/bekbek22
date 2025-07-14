@@ -26,3 +26,5 @@
 
 * **Email:** suphakom.work@gmail.com
 * **GitHub:** [github.com/bekbek22](https://github.com/bekbek22)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekbek22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
